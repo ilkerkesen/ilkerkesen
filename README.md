@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I am a Ph.D. candidate at Koç University, [KUIS AI Center](https://ai.ku.edu.tr), working with [Deniz Yuret](https://www.denizyuret.com). My main research area is natural language processing. I'm currently working on language grounding to vision through commonsense knowledge and reasoning.
+I am a Ph.D. candidate at Koç University, [KUIS AI Center](https://ai.ku.edu.tr), under the supervision of [Deniz Yuret](https://www.denizyuret.com). My main research area is natural language processing. In particular, I'm currently working on language grounding to vision through commonsense knowledge and reasoning. The easiest way to contact me is to [send an email](mailto:ikesen16_at_ku.edu.tr). Here are some helpful links about me,
+
+- [Twitter](https://twitter.com/ilker_kesen)
+- [Google Scholar](https://scholar.google.com/citations?user=Ma__oU0AAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/ilker-kesen-228a58141/)
 
 <!--
 **ilkerkesen/ilkerkesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
