@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Ph.D. candidate at Koç University, [KUIS AI Center](https://ai.ku.edu.tr), working with [Deniz Yuret](https://www.denizyuret.com). My main research area is natural language processing. I'm currently working on language grounding to vision through commonsense knowledge and reasoning.
+
 <!--
 **ilkerkesen/ilkerkesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
