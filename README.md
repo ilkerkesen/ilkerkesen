@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a postdoc at [Language and Multimodal Processing Group](https://lampgroup.github.io/) at the Department of Computer Science at the University of Copenhagen. Previously, I was a PhD student at Koç University, under the supervision of [Deniz Yuret](https://www.denizyuret.com) and [Aykut Erdem](https://aykuterdem.github.io/). My main research area is natural language processing (NLP). In particular, I'm currently working on multimodal and/or multilingual language learning. The easiest way to contact me is to [send an email](mailto:ilkerksn@gmail.com). Here are some helpful links about me,
+I am a postdoc at [the Machine Learning chair](https://alanakbik.github.io/chair) at the Humboldt-Universität zu Berlin. Previously, I was a postdoc at [Language and Multimodal Processing Group](https://lampgroup.github.io/) at the University of Copenhagen. I completed my PhD at Koç University, under the supervision of [Deniz Yuret](https://www.denizyuret.com). My main research area is natural language processing (NLP). In particular, I'm currently working on tokenization-free approaches and less-resourced languages. The easiest way to contact me is to [send an email](mailto:name.surname@hu-berlin.de). Here are some helpful links about me,
 
 - [Twitter](https://twitter.com/ilker_kesen)
 - [Google Scholar](https://scholar.google.com/citations?user=Ma__oU0AAAAJ&hl=en)
